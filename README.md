@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mateusilvadev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in desevolvimento web
+- 🌱 I’m currently learning [![My Skills](https://skillicons.dev/icons?i=,react,vue,)](https://skillicons.dev)
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
