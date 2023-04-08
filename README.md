@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning [![My Skills](https://skillicons.dev/icons?i=,react,vue,)](https://skillicons.dev)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,git,vue,angular,react" />
   </a>
 </p>
 
